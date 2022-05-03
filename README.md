@@ -18,6 +18,8 @@
 
 [**Calculating IRR in Python**](https://www.codingfinance.com/post/2018-03-20-irr-py/)
 
+[5 Useful Personal Finance Functions from NumPy Financial](https://cmdlinetips.com/2020/02/useful-personal-finance-functions-numpy-financial/)
+
 ### in R
 
 [Time Value of Money in R](https://www.codingfinance.com/post/2018-03-18-tvm/)
