@@ -32,6 +32,8 @@
 
 [Calculating future returns in R](https://www.codingfinance.com/post/2018-03-23-future-value/)
 
+[How to Calculate the Net Present Value (NPV) in R [Examples]](https://www.codingprof.com/how-to-calculate-the-net-present-value-npv-in-r-examples/)
+![](https://www.codingprof.com/wp-content/uploads/2022/01/formula2.png)
 [Calculating car loan payments in R](https://www.codingfinance.com/post/2018-03-23-car-payment/)
 
 [Calculating potential returns in R](https://www.codingfinance.com/post/2018-03-22-billboard/)
