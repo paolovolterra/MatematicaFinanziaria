@@ -40,6 +40,8 @@
 
 [Calculating IRR in R](https://www.codingfinance.com/post/2018-03-20-irr/)
 
+[statistics for management and economics study notes ](http://felixfan.github.io/feed/)
+
 []()
 
 []()
