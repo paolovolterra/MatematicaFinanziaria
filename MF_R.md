@@ -4,7 +4,7 @@
 
 # Package ‘capitalR’
 
-# [library(tidyquant)]()
+# [library(tidyquant)](https://business-science.github.io/tidyquant/)
 
 # [library(DT)]()
 
@@ -18,6 +18,8 @@ https://www.business-science.io/finance/2020/02/26/r-for-excel-users.html#
 
 
 ### siti interessanti in R
+
+[Examples of using FinCal](https://rpubs.com/Felix/7120)
 
 [Time Value of Money in R](https://www.codingfinance.com/post/2018-03-18-tvm/)
 
