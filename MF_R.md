@@ -2,10 +2,11 @@
 
 ## Packeges
 
-* [FinCal -- Time Value of Money, time series analysis and Computational Finance](https://github.com/felixfan/FinCal)
+* [FinCal](https://github.com/felixfan/FinCal)
 * capitalR
-* [library(tidyquant)](https://github.com/business-science/tidyquant)
-* [library(DT)]()
+* [tidyquant](https://github.com/business-science/tidyquant)
+* [DT]()
+* labstatR
 
 
 https://www.codingfinance.com/post/2018-03-23-car-payment/
