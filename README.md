@@ -4,4 +4,4 @@
 
 
 
-![](https://cdn.ablebits.com/_img-blog/npv/npv-formula-compact.png)
+![](https://analystprep.com/blog/wp-content/uploads/2020/12/Qualitative-methods.png)
