@@ -1,14 +1,11 @@
 # Matematica finanziaria con R
 
-## [FinCal -- Time Value of Money, time series analysis and Computational Finance](https://github.com/felixfan/FinCal)
+## Packeges
 
-# Package ‘capitalR’
-
-# [library(tidyquant)](https://business-science.github.io/tidyquant/)
-
-# [library(DT)]()
-
-# [library(FinCal) ]()
+* [FinCal -- Time Value of Money, time series analysis and Computational Finance](https://github.com/felixfan/FinCal)
+* capitalR
+* [library(tidyquant)](https://github.com/business-science/tidyquant)
+* [library(DT)]()
 
 
 https://www.codingfinance.com/post/2018-03-23-car-payment/
@@ -32,7 +29,7 @@ https://www.business-science.io/finance/2020/02/26/r-for-excel-users.html#
 [Calculating future returns in R](https://www.codingfinance.com/post/2018-03-23-future-value/)
 
 [How to Calculate the Net Present Value (NPV) in R [Examples]](https://www.codingprof.com/how-to-calculate-the-net-present-value-npv-in-r-examples/)
-![](https://www.codingprof.com/wp-content/uploads/2022/01/formula2.png)
+
 [Calculating car loan payments in R](https://www.codingfinance.com/post/2018-03-23-car-payment/)
 
 [Calculating potential returns in R](https://www.codingfinance.com/post/2018-03-22-billboard/)
@@ -40,6 +37,8 @@ https://www.business-science.io/finance/2020/02/26/r-for-excel-users.html#
 [Calculating IRR in R](https://www.codingfinance.com/post/2018-03-20-irr/)
 
 [statistics for management and economics study notes ](http://felixfan.github.io/feed/)
+
+[Analisi del prestito ](https://rstudio-pubs-static.s3.amazonaws.com/310410_4a2b92886cfb414385486af6cf76504f.html)
 
 
 <img src="https://business-science.github.io/tidyquant/reference/figures/tidyquant-logo.png" width="300"/>
