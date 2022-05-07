@@ -13,7 +13,10 @@ https://www.codingfinance.com/post/2018-03-23-car-payment/
 
 https://www.business-science.io/finance/2020/02/26/r-for-excel-users.html#
 
+## Problemi
+* [Prezzo di Coupon Bond](https://www.r-bloggers.com/2021/06/coupon-bearing-bond-pricing-using-r-code/)
 
+---
 
 ### siti interessanti in R
 
