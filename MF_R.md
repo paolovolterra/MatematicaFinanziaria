@@ -16,6 +16,8 @@ https://www.business-science.io/finance/2020/02/26/r-for-excel-users.html#
 ## Problemi
 * [Prezzo di Coupon Bond](https://www.r-bloggers.com/2021/06/coupon-bearing-bond-pricing-using-r-code/)
 
+![](https://i2.wp.com/2.bp.blogspot.com/-bduWqKRaZSQ/XrUnA0HIrtI/AAAAAAAAArw/INydfiujBE4EUYma429G-UWqbjXvkGGBgCLcBGAsYHQ/s1600/bond_cash_flow_time_line.png?resize=450%2C402&ssl=1)
+
 ---
 
 ### siti interessanti in R
