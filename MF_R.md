@@ -47,6 +47,7 @@ https://www.business-science.io/finance/2020/02/26/r-for-excel-users.html#
 
 [Analisi del prestito ](https://rstudio-pubs-static.s3.amazonaws.com/310410_4a2b92886cfb414385486af6cf76504f.html)
 
+[K & L Fintech Modeling ](https://kiandlee.blogspot.com/)
 
 <img src="https://business-science.github.io/tidyquant/reference/figures/tidyquant-logo.png" width="300"/>
 
