@@ -38,3 +38,6 @@ https://www.business-science.io/finance/2020/02/26/r-for-excel-users.html#
 [Calculating IRR in R](https://www.codingfinance.com/post/2018-03-20-irr/)
 
 [statistics for management and economics study notes ](http://felixfan.github.io/feed/)
+
+
+<img src="https://business-science.github.io/tidyquant/reference/figures/tidyquant-logo.png" width="300"/>
